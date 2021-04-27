@@ -30,4 +30,6 @@ public class RestReservationController {
     public Info postChangeSeatInfo(@RequestBody ModifiedSeatDto modifiedSeatDto){
          return reservationService.update(modifiedSeatDto);
     }
+
+
 }
