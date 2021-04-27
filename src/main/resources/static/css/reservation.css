@@ -1,0 +1,9 @@
+.category{
+    display: flex;
+    flex-direction: row;
+    margin: 0 200px;
+    justify-content: space-between;
+}
+.selSeat{
+    margin: 0 300px;
+}
