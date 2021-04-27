@@ -1,6 +1,7 @@
 # tgv_reservation_system
 
 1. 테이블 생성
+
 ![tables](https://user-images.githubusercontent.com/71299705/116206143-77ef8780-a779-11eb-8c24-a857c84b1e76.PNG)
 
 
@@ -13,6 +14,7 @@
 
 
 3. 메인페이지
+
 ![mainpage](https://user-images.githubusercontent.com/71299705/116206153-79b94b00-a779-11eb-9e91-2d8a974da83d.PNG)
 
 
